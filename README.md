@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BIT-Michael
 - 👀 I’m interested in CMS, Vanilla JS, PHP, Joomla and teaching the basics of programming 
-- 🌱 I’m currently learning NODE and HUGO
+- 🌱 I’m currently learning GIT, NODE and HUGO
 
 
 <!---
